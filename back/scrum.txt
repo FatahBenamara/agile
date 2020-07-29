@@ -1,0 +1,92 @@
+**Equipe scrum
+-------------
+01 product owner
+-----------------
+- client
+
+02 scrum master
+-----------------
+-facilitateur avec product owner en livrant le product backlog
+-facilitateur avec equipe de developpement en livrant le product increment
+
+03 equipe de developpement
+-----------------------------
+-pluridisciplinaire/ Auto organisé/
+
+
+**evenements
+----------
+01 sprint
+----------
+-durée : 1 mois
+-reunion quotidienne:
+-produit livrable:
+-reunion de conclusion:
+-reunion de retrospective:
+-processus PDCA
+
+02 sprint planning
+------------------
+-reunion de planification: PO-SM-DT
+-durée:8h
+-quoi: creer le carnet de sprint a partir du carnet produit (product backlog)
+-comment: detail des taches/budget/assignation des roles
+
+03 daily scrum
+---------------
+-reunion quotidienne debout
+-communiquer l'objectif du sprint
+-duree:15mn
+-a tour de role, communiquer sur:
+    -qu est ce qui a été fait?
+    -qu est ce qui vas etre fait?
+    -identifier les obstacles rencontrer?
+-outil: le scrum board
+-different taches+bugs & errors+solutions apportés -> a faire/ en cours/teste/validé par/finis/
+ 
+04 sprint review
+-----------------
+-reunion: 4h
+-objectif: examiner les realisation
+-demonstration au cour de la reunion:
+    -les element finis/ les element partiellement finis ne sont pas presenté
+    -mise a jour du carnet projet
+-RE-planification de la realisation finale (bilan) (affinage du backlog -grooming)
+
+
+05 sprint retrospectiv
+-----------------------
+-reunion: 3h
+-RE-planification de la façon de travailler (bilan) (affinage du backlog -grooming)
+-amélioration au sprint suivant (affinage du backlog -grooming)
+
+
+
+
+
+**Artefact
+--------
+-product backlog - carnet de produit (cahier des cahrge)
+    -planning poker
+
+-sprint backlog - carnet de sprint (cahier des cahrge/ iteration)(cahier de produit/sprint)
+    -scrum jira
+-product increment (les resultat des sprint)
+
+-burndown chart (action restant)
+    -travail a faire:100%
+    -temps:15jours
+    ->certaines tache ont besoins +temps/-temps
+
+
+
+-impediment list(interferance externe)
+ 
+
+
+
+
+
+
+
+

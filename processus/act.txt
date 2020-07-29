@@ -1,0 +1,40 @@
+**Etapes
+----------
+01 constituer le produit backlog
+
+
+02 sprint zero (projet avant projet)
+---------------------------------
+    -création de l'equipe
+    -backlog initial/estimation
+    -identification des risques
+    -durée des iterations
+    -planning de la release
+    -environnement de travail (war room-logiciel-réseau-serveur-base de données)
+
+03 sprint planning meeting
+-----------------------------
+
+04 sprint backlog
+------------------
+
+05 daily scrum/grooming
+------------------
+
+06 review
+----------
+
+07 retrospective
+-------------------
+
+
+
+
+
+
+
+
+affinage du backlog - grooming  
+-------------------------------
+-alimenter les user stories-decomposer les epics-nettoyer et trier-estimer-reordonner- -
+
